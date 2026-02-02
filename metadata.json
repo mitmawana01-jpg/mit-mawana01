@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MIT Mawana - Computer Institute",
+  "description": "Official website for Mawana Institute of Technology, offering courses in AI, Cyber Security, Web Design, and more.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
